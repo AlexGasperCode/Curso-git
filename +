@@ -1,0 +1,24 @@
+[1mdiff --git a/file.js b/file.js[m
+[1mindex e69de29..4995605 100644[m
+[1m--- a/file.js[m
+[1m+++ b/file.js[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mModificaciones a archivo JS[m
+[32m+[m[32mAgregamos linea de texto a archivo JS[m
+\ No newline at end of file[m
+[1mdiff --git a/file.sql b/file.sql[m
+[1mindex e69de29..57032ba 100644[m
+[1m--- a/file.sql[m
+[1m+++ b/file.sql[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mModificaciones a archivo SQL[m
+[32m+[m[32mAgregamos linea de texto a archivo SQL[m
+[1mdiff --git a/file.txt b/file.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6e7be12[m
+[1m--- /dev/null[m
+[1m+++ b/file.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mModificaciones a archivo    TXT[m
+[32m+[m[32mAgregamos linea de texto a archivo TXT[m
+\ No newline at end of file[m
